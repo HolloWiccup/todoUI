@@ -94,6 +94,7 @@ input[type="checkbox"]:hover{
     font-size: 20px;
     grid-column: span 3;
     text-indent: 30px;
+    text-align: justify;
 }
 .task__text::first-letter{
     font-weight: bold;
